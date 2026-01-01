@@ -1,0 +1,33 @@
+/* Page background and font */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+/* Heading style */
+h1 {
+    color: #333;
+}
+
+/* Paragraph style */
+p {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Button style */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
